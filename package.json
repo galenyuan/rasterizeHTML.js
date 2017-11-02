@@ -48,6 +48,7 @@
     "slimerjs": "~0.906.1"
   },
   "scripts": {
-    "test": "bash go --verbose"
+    "test": "bash go --verbose",
+    "build": "grunt"
   }
 }
